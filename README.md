@@ -36,7 +36,7 @@ Full-color control: Pick warm or cool pastel accents to match your vibe (or syst
 
 Questions, bug reports, or feature requests?
 
-* **Email:** [seohyun.aum@gmail.com@gmail.com](mailto:seohyun.aum@gmail.com)
+* **Email:** [seohyun.aum@gmail.com](mailto:seohyun.aum@gmail.com)
   I usually reply within 48 hours.
 
 ## 📄 FAQ
