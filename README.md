@@ -1,3 +1,8 @@
+
+<img src="assets/trackyicon.png"
+     alt="Weekly widget showing streaks"
+     width="300">
+
 # Tracky — Widget‑First Habit Tracker
 
 Tracky is a minimalist habit & hobby tracker built around **iOS widgets**. Log your progress and visualize streaks in gorgeous pastel charts—no extra taps, no clutter.
@@ -9,6 +14,22 @@ One-tap logging: Mark a habit done with one click inside the app.
 Weekly & Monthly overviews: Gorgeous circular graphs let you spot patterns and missed days in seconds.
 
 Full-color control: Pick warm or cool pastel accents to match your vibe (or system dark/light mode).
+
+## 📲 Screenshots
+
+<img src="assets/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20Max%20-%202025-07-01%20at%2011.50.17.png" alt="Screenshot 1" width="280">
+
+<img src="assets/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20Max%20-%202025-07-01%20at%2011.50.12.png" alt="Screenshot 2" width="280">
+
+<img src="assets/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20Max%20-%202025-07-01%20at%2011.50.08.png" alt="Screenshot 3" width="280">
+
+<img src="assets/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20Max%20-%202025-07-01%20at%2011.49.59.png" alt="Screenshot 4" width="280">
+
+<img src="assets/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20Max%20-%202025-07-01%20at%2011.49.53.png" alt="Screenshot 5" width="280">
+
+<img src="assets/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20Max%20-%202025-07-01%20at%2011.49.33.png" alt="Screenshot 6" width="280">
+
+<img src="assets/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20Max%20-%202025-07-01%20at%2011.47.38.png" alt="Screenshot 7" width="280">
 
 
 ## 💌 Support & Contact
