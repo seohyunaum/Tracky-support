@@ -39,6 +39,10 @@ Questions, bug reports, or feature requests?
 * **Email:** [seohyun.aum@gmail.com](mailto:seohyun.aum@gmail.com)
   I usually reply within 48 hours.
 
+### Bug Reports and Feature Requests
+
+You can either open a issue through this github page, or send me an email. Please make sure you add the tag in the title of the issue, whether it's [Bug] or [Feature Request]
+
 ## 📄 FAQ
 
 ### How do I add a widget?
